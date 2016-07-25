@@ -1,0 +1,2 @@
+./materials
+#/home/zhengxiaotian/scripts/vsda_word_seg/universal_add_40000_zhanghaijie/materials/mfg_clean.outchange_id.add_sourceid
