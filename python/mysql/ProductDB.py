@@ -141,7 +141,7 @@ class ProductDB:
 		return self.executeOne(strSql)
 
 def main():
-    pdb = ProductDB("10.36.98.14", 6666, "edurd_wr", "hsilgne", "Dr_Vs_Edu", 1)
+    pdb = ProductDB("0.0.0.0", 0, "user_name", "password", "db_name", 1)
     pdb.connect()
     pdb.close()
 
